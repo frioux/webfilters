@@ -1,0 +1,7 @@
+||disqus.com/embed/comments/$subdocument
+lwn.net##.CommentBox
+lwn.net###menu
+slatestarcodex.com##.comments-floater
+slatestarcodex.com###comments
+slatestarcodex.com###respond
+slatestarcodex.com###arvins_ad_randomizer-2
