@@ -5,3 +5,4 @@ slatestarcodex.com##.comments-floater
 slatestarcodex.com###comments
 slatestarcodex.com###respond
 slatestarcodex.com###arvins_ad_randomizer-2
+discordapp.com##*[class^="typing-"]
