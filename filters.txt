@@ -2,6 +2,7 @@
 lwn.net##.CommentBox
 lwn.net##.topnav-container
 lwn.net##center
+lwn.net##img
 lwn.net###menu
 slatestarcodex.com##.comments-floater
 slatestarcodex.com###comments
