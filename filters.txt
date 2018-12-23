@@ -1,5 +1,7 @@
 ||disqus.com/embed/comments/$subdocument
 lwn.net##.CommentBox
+lwn.net##.topnav-container
+lwn.net##center
 lwn.net###menu
 slatestarcodex.com##.comments-floater
 slatestarcodex.com###comments
