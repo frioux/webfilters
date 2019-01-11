@@ -10,3 +10,6 @@ slatestarcodex.com###respond
 slatestarcodex.com###arvins_ad_randomizer-2
 discordapp.com##*[class^="typing-"]
 experimentaltheology.blogspot.com##header#branding
+hackaday.com##div#comments
+hackaday.com##div#secondary
+hackaday.com##footer
