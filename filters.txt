@@ -13,3 +13,4 @@ experimentaltheology.blogspot.com##header#branding
 hackaday.com##div#comments
 hackaday.com##div#secondary
 hackaday.com##footer
+git.ziprecruiter.com##.diff-tree-list
