@@ -14,3 +14,8 @@ hackaday.com##div#comments
 hackaday.com##div#secondary
 hackaday.com##footer
 git.ziprecruiter.com##.diff-tree-list
+
+! fix four short links
+www.oreilly.com * 1p-script block
+www.oreilly.com * 3p-script block
+www.oreilly.com * inline-script block
